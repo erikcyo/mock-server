@@ -1,0 +1,18 @@
+[
+  {
+    "file_root": "./",
+    "include": "User/getUser.json"
+  },
+  {
+    "file_root": "./",
+    "include": "User/postUser.json"
+  },
+  {
+    "file_root": "./",
+    "include": "User/deleteUser.json"
+  },
+  {
+    "file_root": "./",
+    "include": "index.json"
+  }
+]
