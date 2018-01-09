@@ -1,6 +1,6 @@
 # Mock Server
 
-This is simple practise build **Mock Server** to Fake API using **moco stand alone**. 
+This is simple practise build **Mock Server** to Fake API using **moco stand alone**.   
 To start the service type this in linux terminal :    
 ```
 java -jar moco.jar http -p 9999 -g setting.json
